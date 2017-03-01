@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<views>
+    <documentSelector>true</documentSelector>
+    <lookAndFeel>Java</lookAndFeel>
+    <statusStrip>true</statusStrip>
+    <tabsAlignment>Top</tabsAlignment>
+    <toolStrip>true</toolStrip>
+</views>
